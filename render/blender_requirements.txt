@@ -1,0 +1,5 @@
+numpy==1.24.3
+opencv-python==4.11.0.86
+OpenEXR==3.3.3
+openexr_numpy==0.0.8
+pyzmq==27.1.0

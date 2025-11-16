@@ -1,0 +1,4 @@
+__pycache__/
+render/blender-*/
+render/blender/
+tmp/
