@@ -68,8 +68,8 @@ python app.py \
   --port 7861 
 ```
 
-- Adjust the 9D pose of the cube in the **Cube Manipulation** panel
-- Enter text prompts in the **Standard Generation** panel and click the **Generate** button to create images
+- Adjust the 9D pose of the cube in the **Cube Controls** panel
+- Enter text prompts in the **Generation Config** panel and click the **Generate Images** button to create images
 
 
 
@@ -79,7 +79,7 @@ If you find our work useful for your research and applications, please kindly ci
 
 ```latex
 @inproceedings{SceneDesigner,
-        title={{SceneDesigner}:Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation},
+        title={SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation},
         author={Qin, Zhenyuan and Shuai, Xincheng and Ding, Henghui},
         booktitle={NeurIPS},
         year={2025}
