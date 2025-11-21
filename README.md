@@ -13,8 +13,8 @@
     Fudan University
 </p>
 <p align="center">
-<a href="https://arxiv.org/abs/"><img src="https://img.shields.io/static/v1?label=Paper&message=2505.19114&color=red&logo=arxiv"></a>
-<a href="https://qqzy.github.io/SceneDesigner-Page/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>
+<a href="https://arxiv.org/abs/2511.16666"><img src="https://img.shields.io/static/v1?label=Paper&message=2511.16666&color=red&logo=arxiv"></a>
+<a href="https://henghuiding.com/SceneDesigner/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>
 </p>
 
 
