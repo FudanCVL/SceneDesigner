@@ -15,6 +15,7 @@
 <p align="center">
 <a href="https://arxiv.org/abs/2511.16666"><img src="https://img.shields.io/static/v1?label=Paper&message=2511.16666&color=red&logo=arxiv"></a>
 <a href="https://henghuiding.com/SceneDesigner/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>
+<a href="https://huggingface.co/datasets/FudanCVL/ObjectPose9D"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace">
 </p>
 
 
